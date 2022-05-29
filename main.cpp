@@ -45,13 +45,11 @@ struct SortPointers
 
 
 
-
-
 int main()
 {
 
 vector<covidMK*> vcmk;      //ovde se definira vektorot
-    //8 zapisi za gradoj i za novi i zaboleni
+    //8 zapisi za gradoj, novi i za ozdraveni
     vcmk.push_back(new covidMK( "Bitola", 15, 29));
 
     vcmk.push_back(new covidMK( "Kumanovo", 10, 4));
