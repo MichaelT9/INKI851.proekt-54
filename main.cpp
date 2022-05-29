@@ -1,3 +1,8 @@
+//INKI851 Mihail Trajkovski - zadacha 54
+//covidMK statistika
+
+
+
 #include <iostream>
 #include <string>
 #include <sstream>
